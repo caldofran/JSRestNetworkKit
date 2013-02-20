@@ -1,0 +1,3 @@
+[submodule "JSRestNetworkKit/Vendor/JSCache"]
+	path = JSRestNetworkKit/Vendor/JSCache
+	url = https://caldofran@github.com/caldofran/JSCache.git
